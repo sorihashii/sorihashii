@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Sorihashi`](https://twitter.com/MadaniSora)**, a Cybersecurity Researcher specializing in **Smart Contract & Web3 Security**. With a strong passion for blockchain technology and expertise in vulnerability assessment, auditing and reverse engineering, my goal is to secure decentralized systems and help developers ship safer smart contracts.
+I'm **[`Sorihashi`](https://twitter.com/sorihashii)**, a Cybersecurity Researcher specializing in **Smart Contract & Web3 Security**. With a strong passion for blockchain technology and expertise in vulnerability assessment, auditing and reverse engineering, my goal is to secure decentralized systems and help developers ship safer smart contracts.
 
 <details>
   <summary>More about me</summary>
@@ -24,7 +24,7 @@ I'm **[`Sorihashi`](https://twitter.com/MadaniSora)**, a Cybersecurity Researche
 - Currently learning **Reverse Engineering**
 - Improving knowledge in **DeFi protocol security** and **on-chain exploit analysis**
 - Lifelong learner — always exploring **everything Web3**
-- Reach me out on [Twitter](https://twitter.com/MadaniSora)
+- Reach me out on [Twitter](https://twitter.com/sorihashii)
 
 </details>
 <br>
@@ -79,13 +79,13 @@ I'm **[`Sorihashi`](https://twitter.com/MadaniSora)**, a Cybersecurity Researche
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MadaniSora&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
-<p align="left"><a href="https://github.com/MadaniSora"></a></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sorihashii&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
+<p align="left"><a href="https://github.com/sorihashii"></a></p>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MadaniSora&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sorihashii&color=blue&style=flat" alt="Profile Views" />
 </div>
 
 ---
@@ -98,9 +98,9 @@ I'm **[`Sorihashi`](https://twitter.com/MadaniSora)**, a Cybersecurity Researche
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MadaniSora&layout=compact&theme=tokyonight&hide_border=false" width="400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sorihashii&layout=compact&theme=tokyonight&hide_border=false" width="400" />
   <br />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadaniSora&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sorihashii&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED" alt="Stats" />
 </div>
 
 
