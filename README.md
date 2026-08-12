@@ -15,9 +15,7 @@ I'm **[`Sorihashi`](https://twitter.com/sorihashii)**, a Cybersecurity Researche
 
 <details>
   <summary>More about me</summary>
-
-- **Name**: Harits Akbar Al Madhani
-- **From**: Indonesia
+  
 - **Focus**: Smart Contract & Web3 Security 
 - **Bug Hunter** | **Security Researcher** |
 - Also active in **Web2 Web3 Bug Bounty Hunting**
